@@ -129,4 +129,4 @@ df.to_csv("data/csv/600519.csv", index=False)   # 落盘即被系统采用
 
 ## 许可证
 
-本项目以 [MIT License](./LICENSE) 开源。版权信息见 `LICENSE` 文件（请补充团队 / 作者名与年份）。
+本项目以 [MIT License](./LICENSE) 开源。版权信息见 `LICENSE` 文件。
