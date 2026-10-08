@@ -1,0 +1,58 @@
+{
+  "source": "real",
+  "label": "历史真实回测数据 (2024-2026)",
+  "as_of": "2026-10-06",
+  "start": "2024-01-01",
+  "per_stock_source": {
+    "AAPL": "csv",
+    "MSFT": "csv",
+    "NVDA": "csv",
+    "TSLA": "csv",
+    "KO": "csv",
+    "MCD": "csv",
+    "JNJ": "csv",
+    "JPM": "csv"
+  },
+  "stocks": {
+    "AAPL": {
+      "name": "苹果",
+      "en": "Apple Inc.",
+      "category": "科技先锋"
+    },
+    "MSFT": {
+      "name": "微软",
+      "en": "Microsoft Corporation",
+      "category": "科技先锋"
+    },
+    "NVDA": {
+      "name": "英伟达",
+      "en": "NVIDIA Corporation",
+      "category": "科技先锋"
+    },
+    "TSLA": {
+      "name": "特斯拉",
+      "en": "Tesla Inc.",
+      "category": "科技先锋"
+    },
+    "KO": {
+      "name": "可口可乐",
+      "en": "The Coca-Cola Company",
+      "category": "消费防御"
+    },
+    "MCD": {
+      "name": "麦当劳",
+      "en": "McDonald's Corporation",
+      "category": "消费防御"
+    },
+    "JNJ": {
+      "name": "强生",
+      "en": "Johnson & Johnson",
+      "category": "医疗与金融"
+    },
+    "JPM": {
+      "name": "摩根大通",
+      "en": "JPMorgan Chase & Co.",
+      "category": "医疗与金融"
+    }
+  }
+}

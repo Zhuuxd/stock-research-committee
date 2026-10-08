@@ -1,0 +1,9 @@
+{
+  "llm": {
+    "enabled": true,
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key": "在此填入你的 DeepSeek / OpenAI / 通义千问 / 智谱GLM 的 API Key",
+    "model": "deepseek-chat",
+    "timeout": 60
+  }
+}

@@ -1,0 +1,26 @@
+# ===== 开发用浏览器截图配置（含本地缓存，可能含敏感信息，勿提交）=====
+.edgeprofile/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ===== 本地数据构建缓存（可由 build_data.py 重新生成）=====
+data/_engine_cache/
+
+# ===== 本地配置（可能含 API Key，勿提交）=====
+# 本仓库默认离线运行，无需配置即可跑；
+# 如需启用大模型，复制 config.example.json 为 config.json 并填入 Key，
+# 该文件已被忽略，不会被提交到公开仓库。
+config.json
+
+# ===== 操作系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
